@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+.container {
+  margin-bottom: 100px;
+}
+
+.navbar img {
+  width: 150px;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 200px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  color: gray;
+}
+
+.price {
+  margin-bottom: 10px;
+}
+
+.carousel-item img {
+  width: 100%;
+  justify-content: center;
+  float: right;
+}
+
+.container .carousel-item {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.buy-new-button {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h6 {
+  color: gold;
+}
+
+.draw {
+  background-color: gold;
+  color: gold;
+  width: 100px;
+  height: 7px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.categories img {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.cat2 {
+  padding: 60px 20px;
+  width: 200px;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 10px;
+  float: left;
+  margin-bottom: 30px;
+}
+
+.cat3 {
+  padding: 60px 20px;
+  width: 200px;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 10px;
+  float: left;
+}
+
+.cat1 {
+  padding: 60px 20px;
+  width: 200px;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 10px;
+  float: right;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
